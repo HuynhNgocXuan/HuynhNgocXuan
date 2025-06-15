@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 My name is [Your Name]
 
-<!--
-**HuynhNgocXuan/HuynhNgocXuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write computer code.
 
-Here are some ideas to get you started:
+- 📧 You can contact me at xuanhuynh.170204@gmail.com
+- 🤝 I'm open to collaborating on React, C# and Node.js projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
