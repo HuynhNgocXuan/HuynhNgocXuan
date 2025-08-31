@@ -16,6 +16,5 @@ I write computer code.
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" />
 </p>
 
